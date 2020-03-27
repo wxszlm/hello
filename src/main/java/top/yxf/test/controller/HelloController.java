@@ -20,7 +20,7 @@ public class HelloController {
 
     @RequestMapping("/")
     public String hello() {
-        return "hello world jenkins email";
+        return "hello world jenkins";
     }
 
     public static void main(String[] args) {
