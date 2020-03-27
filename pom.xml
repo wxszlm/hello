@@ -40,15 +40,15 @@
 
         <!--用于编译jsp-->
         <!--<dependency>-->
-            <!--<groupId>org.apache.tomcat.embed</groupId>-->
-            <!--<artifactId>tomcat-embed-jasper</artifactId>-->
-            <!--&lt;!&ndash;<scope>provided</scope>&ndash;&gt;-->
+        <!--<groupId>org.apache.tomcat.embed</groupId>-->
+        <!--<artifactId>tomcat-embed-jasper</artifactId>-->
+        <!--&lt;!&ndash;<scope>provided</scope>&ndash;&gt;-->
         <!--</dependency>-->
         <!--声明spring boot内嵌tomcat的作用范围  在运行时不起作用-->
         <!--<dependency>-->
-            <!--<groupId>org.springframework.boot</groupId>-->
-            <!--<artifactId>spring-boot-starter-tomcat</artifactId>-->
-            <!--<scope>provided</scope>-->
+        <!--<groupId>org.springframework.boot</groupId>-->
+        <!--<artifactId>spring-boot-starter-tomcat</artifactId>-->
+        <!--<scope>provided</scope>-->
         <!--</dependency>-->
 
         <dependency>
